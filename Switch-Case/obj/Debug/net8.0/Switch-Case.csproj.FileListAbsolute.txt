@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Switch-Case\bin\Debug\net8.0\Switch-Case.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Switch-Case\bin\Debug\net8.0\Switch-Case.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Switch-Case\bin\Debug\net8.0\Switch-Case.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Switch-Case\bin\Debug\net8.0\Switch-Case.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Switch-Case\bin\Debug\net8.0\Switch-Case.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Switch-Case\obj\Debug\net8.0\Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Switch-Case\obj\Debug\net8.0\Switch-Case.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Switch-Case\obj\Debug\net8.0\Switch-Case.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Switch-Case\obj\Debug\net8.0\Switch-Case.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Switch-Case\obj\Debug\net8.0\Switch-Case.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Switch-Case\obj\Debug\net8.0\Switch-Case.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Switch-Case\obj\Debug\net8.0\refint\Switch-Case.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Switch-Case\obj\Debug\net8.0\Switch-Case.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Switch-Case\obj\Debug\net8.0\Switch-Case.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Switch-Case\obj\Debug\net8.0\ref\Switch-Case.dll
