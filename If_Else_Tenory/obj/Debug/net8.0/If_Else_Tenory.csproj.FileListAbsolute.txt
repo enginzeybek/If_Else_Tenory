@@ -1,0 +1,14 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\If_Else_Tenory\bin\Debug\net8.0\If_Else_Tenory.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\If_Else_Tenory\bin\Debug\net8.0\If_Else_Tenory.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\If_Else_Tenory\bin\Debug\net8.0\If_Else_Tenory.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\If_Else_Tenory\bin\Debug\net8.0\If_Else_Tenory.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\If_Else_Tenory\bin\Debug\net8.0\If_Else_Tenory.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\If_Else_Tenory\obj\Debug\net8.0\If_Else_Tenory.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\If_Else_Tenory\obj\Debug\net8.0\If_Else_Tenory.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\If_Else_Tenory\obj\Debug\net8.0\If_Else_Tenory.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\If_Else_Tenory\obj\Debug\net8.0\If_Else_Tenory.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\If_Else_Tenory\obj\Debug\net8.0\If_Else_Tenory.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\If_Else_Tenory\obj\Debug\net8.0\refint\If_Else_Tenory.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\If_Else_Tenory\obj\Debug\net8.0\If_Else_Tenory.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\If_Else_Tenory\obj\Debug\net8.0\If_Else_Tenory.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\If_Else_Tenory\obj\Debug\net8.0\ref\If_Else_Tenory.dll
